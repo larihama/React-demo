@@ -26,6 +26,9 @@ function App() {
         </p>
       </div>
       <div className="flex justify-center items-center h-screen">
+      <h1>
+      Hello world! Pär
+      </h1>
       <button className="btn btn-primary">Hello DaisyUI! Pär</button>
       </div>
       <p className="read-the-docs">
